@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Github Page: Welcome to my blog!
 ---
